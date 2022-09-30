@@ -1,0 +1,19 @@
+body
+{
+    background-image: linear-gradient(to left, pink,blue);
+    color: orange;
+}
+#camera
+{
+    border:2px dashed;
+    border-color: rgba(186, 83, 186, 0.362);
+    height: 300px;
+    width: 350px;
+
+}
+.heading
+{
+    width: 80%;
+    font-size: 22px; 
+
+}
